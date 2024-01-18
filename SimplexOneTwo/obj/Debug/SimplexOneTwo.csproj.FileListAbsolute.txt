@@ -1,0 +1,10 @@
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\bin\Debug\SimplexOneTwo.exe.config
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\bin\Debug\SimplexOneTwo.exe
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\bin\Debug\SimplexOneTwo.pdb
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\obj\Debug\SimplexOneTwo.Form1.resources
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\obj\Debug\SimplexOneTwo.Properties.Resources.resources
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\obj\Debug\SimplexOneTwo.csproj.GenerateResource.cache
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\obj\Debug\SimplexOneTwo.csproj.CoreCompileInputs.cache
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\obj\Debug\SimplexOneTwo.exe
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\obj\Debug\SimplexOneTwo.pdb
+E:\Методы оптимизации и исследование операций\L3\SimplexOneTwo\SimplexOneTwo\obj\Debug\SimplexOneTwo.csprojAssemblyReference.cache
